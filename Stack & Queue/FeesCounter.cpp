@@ -1,5 +1,3 @@
-// Name: Shivprasad A. Mahind
-// PRN: 123B1B266
 // Queue using linked list to help optimize fees collection processing at fees counter in a college
 
 #include <iostream>
